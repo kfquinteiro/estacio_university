@@ -1,2 +1,2 @@
-# estacio_university
+# Estácio de Sá
  Computer Science studies.
