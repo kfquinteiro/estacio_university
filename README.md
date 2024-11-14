@@ -1,2 +1,2 @@
 # estacio_university
- Computer Science
+ Computer Science studies.
